@@ -49,3 +49,11 @@ header a {
 .press-links img {
   border: 5px solid #ccc;
 }
+footer {
+  background-color: white;
+  text-align: right;
+}
+p {
+  font-size: 1em;
+  color: #555;
+}
